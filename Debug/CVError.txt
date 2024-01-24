@@ -1,0 +1,1 @@
+OpenCV(4.1.1) Error: Insufficient memory (Failed to allocate 2457600 bytes) in cv::OutOfMemoryError, file C:\Users\nvjoshi\SAR-Chair\vcpkg\buildtrees\opencv4\src\4.1.1-fb9e10326a\modules\core\src\alloc.cpp, line 72

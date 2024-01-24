@@ -1,0 +1,524 @@
+2016-09-02 18:03:10,302 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2016-09-02 18:03:10,437 [1] INFO  SharedPluginServer.Program [(null)] - ARGS:
+2017-02-27 17:15:56,645 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2017-02-27 17:15:56,743 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:48184c0b-8d2c-4074-bc0b-1011dae9f8a3,port:8315
+2017-02-27 17:16:05,327 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2017-02-27 17:16:07,998 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2017-02-27 17:16:08,062 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:9bb0b443-e767-4514-a92c-de677ad8941e,port:8135
+2017-02-27 17:16:11,097 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2017-02-27 18:24:29,979 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2017-02-27 18:24:30,046 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:0fdef6cd-1bda-4815-84fa-aabf5c41bc1b,port:8008
+2017-02-27 18:24:35,168 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2017-02-27 18:24:35,803 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2017-02-27 18:24:35,863 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:0fdef6cd-1bda-4815-84fa-aabf5c41bc1b,port:8008
+2017-02-27 18:24:40,837 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2017-02-27 18:24:55,005 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2017-02-27 18:24:55,072 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:e3e562f6-4ddb-424d-b290-4f2f7fb63fb8,port:8426
+2017-02-27 18:25:06,324 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:33:43,052 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:33:43,092 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:01136ecb-2757-49de-b881-63a1966cb698,port:8427
+2020-03-17 16:33:50,542 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:33:59,948 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:33:59,988 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:63706ecc-fe5b-4633-8e69-a8d06fda9e9a,port:8211
+2020-03-17 16:34:02,963 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:35:50,049 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:35:50,088 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:e16f1281-1aa1-4f5e-aa9c-653c15b8819b,port:8940
+2020-03-17 16:35:55,823 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:36:08,228 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:36:08,267 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:23aa60d3-7779-4370-9fe1-a58a03c28c13,port:8811
+2020-03-17 16:36:17,075 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:36:34,250 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:36:34,291 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:7fccb250-6ceb-45dd-bc35-f9cae0c1ca82,port:8706
+2020-03-17 16:36:38,293 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:37:26,163 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:37:26,202 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:3e9e2ae2-00d8-4e2a-8db6-c7fb12c96ffd,port:8714
+2020-03-17 16:37:40,940 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:38:27,590 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:38:27,629 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:59867f15-c5bd-4c4b-8be9-e9aa3d846a75,port:8840
+2020-03-17 16:38:40,714 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:40:08,148 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:40:08,193 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:e088a533-1682-477b-8334-a127547cf044,port:8225
+2020-03-17 16:40:12,202 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:41:47,099 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:41:47,141 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:0827f828-a21f-4005-b696-8ee545f6a810,port:8136
+2020-03-17 16:42:07,744 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:43:38,466 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:43:38,514 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:c7cd065f-62b8-4982-9650-5bea80c35d05,port:8537
+2020-03-17 16:43:52,432 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:45:07,271 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:45:07,310 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:4bc5a4aa-9d37-4b3d-b8e8-13efdd07e0fb,port:8056
+2020-03-17 16:45:22,009 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 16:45:27,111 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 16:45:27,149 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:99a3243c-5e6d-49d2-861f-171ef35c4e35,port:8259
+2020-03-17 16:45:29,694 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:14:26,863 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:14:26,906 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:cfc4f690-c700-496b-a8f2-eb1363654931,port:8667
+2020-03-17 18:14:35,759 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:14:41,905 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:14:41,948 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:78f84df6-94ec-4fb8-8aac-6df18e7f5507,port:8242
+2020-03-17 18:14:44,543 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:39:08,736 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:39:08,780 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:e5b27e07-e6a1-44aa-9bef-6d80e5be086e,port:8236
+2020-03-17 18:39:24,074 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:39:43,831 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:39:43,866 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:b880216b-9d3a-49e1-b003-969f1629268c,port:8673
+2020-03-17 18:39:50,795 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:40:35,796 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:40:35,839 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:8bb3725d-5e27-465e-8f14-f9c248da9037,port:8594
+2020-03-17 18:40:40,138 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:40:45,099 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:40:45,137 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:3b05de4c-81e6-448c-b011-b3923ff80e7c,port:8419
+2020-03-17 18:40:52,583 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:42:44,147 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:42:44,191 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:47c41314-b323-4b08-b18a-7f7893cc3c7d,port:8390
+2020-03-17 18:42:48,958 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:42:55,174 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:42:55,213 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:853162d7-09d0-43d3-9b23-2c4da98f45db,port:8264
+2020-03-17 18:42:57,818 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:45:28,542 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:45:28,576 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:dedea3e8-5217-483d-9c69-efbcb3aa75a5,port:8605
+2020-03-17 18:45:33,700 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:45:41,284 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:45:41,325 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:b23ee6fb-3313-4f48-9072-b37355ba0d9a,port:8169
+2020-03-17 18:45:45,402 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:45:56,983 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:45:57,025 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:6a984371-af5f-4cd6-806d-cdd3ccf4cce0,port:8814
+2020-03-17 18:46:17,683 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:46:48,598 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:46:48,635 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:67f21875-53e6-49a7-8232-dbf2fcd38922,port:8020
+2020-03-17 18:46:55,176 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:49:14,174 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:49:14,214 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:2b310114-f87a-4887-b398-0cbb7044ebb5,port:8099
+2020-03-17 18:49:18,116 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:51:53,973 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:51:54,017 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:1b01f22a-e8e9-44e4-b6a0-011120e32d77,port:8260
+2020-03-17 18:51:58,531 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:53:10,327 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:53:10,368 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:59490b58-cf92-407d-8a63-2b3e521e3f35,port:8494
+2020-03-17 18:53:15,881 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:57:31,332 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:57:31,378 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:5806b2b6-72ab-4a6f-ae66-e5bd1cac1eb9,port:8783
+2020-03-17 18:57:46,626 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 18:57:56,025 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 18:57:56,065 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:3d0ac472-f57a-44e3-aa11-e627cc7aa179,port:8810
+2020-03-17 18:57:59,263 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:00:48,640 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:00:48,677 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:524f63db-1cd3-48a3-8ff2-ee8c3e11afe0,port:8643
+2020-03-17 19:00:52,008 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:01:12,483 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:01:12,522 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:79f8f199-3b9c-4c0f-b965-cf469ce34f55,port:8548
+2020-03-17 19:01:17,251 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:01:23,401 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:01:23,435 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:c2866acf-d0c1-44ec-bd62-ba23ece2f0ed,port:8118
+2020-03-17 19:01:25,727 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:06:43,939 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:06:43,982 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:997c852c-7feb-468a-83f3-d30bd43c7d2a,port:8790
+2020-03-17 19:06:44,655 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:06:56,031 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:06:56,068 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:429c5596-39c1-48a1-b607-03f012a56adc,port:8838
+2020-03-17 19:07:16,279 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:08:19,518 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:08:19,557 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:a1b7ec75-0793-4326-a931-839f16363eff,port:8993
+2020-03-17 19:09:14,912 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:10:39,559 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:10:39,601 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:55398f4a-fe92-4992-b163-407b275896f4,port:8255
+2020-03-17 19:11:08,059 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:11:47,334 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:11:47,370 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:facec84d-8756-4bae-990c-d5e9b6185fda,port:8124
+2020-03-17 19:11:59,397 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:12:52,076 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:12:52,117 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:b34598a3-8eb6-4b1f-9263-b276b93ad849,port:8445
+2020-03-17 19:13:51,176 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:16:03,460 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:16:03,498 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:cddf686f-be3b-4343-8d1f-89bed61b850f,port:8307
+2020-03-17 19:16:26,991 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:16:28,624 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-03-17 19:16:56,526 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:16:56,564 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:e354a7cf-f0f0-4693-abd6-77a3486c4048,port:8598
+2020-03-17 19:17:11,051 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:43:05,294 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:43:05,338 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://www.w3schools.com/jsref/met_win_scrollby.asp,memfile:bdd7c0e6-e748-44d9-b257-0b558418c623,port:8592
+2020-03-17 19:43:43,106 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:44:04,389 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:44:04,427 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://www.w3schools.com/jsref/met_win_scrollby.asp,memfile:484b9f42-f27a-4e30-b1e1-8819017b30bb,port:8989
+2020-03-17 19:44:33,058 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:47:38,938 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:47:38,979 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:www.google.ca,memfile:3bd99ae1-5dbb-4c50-be66-12b18d544974,port:8132
+2020-03-17 19:47:47,251 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:48:17,816 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:48:17,852 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:5f9f73ff-bcf6-4ff6-99ff-fe30340a413d,port:8416
+2020-03-17 19:48:53,629 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 19:53:30,193 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 19:53:30,226 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:c1bb5a08-fb3c-4491-84c5-9aa64380ce70,port:8469
+2020-03-17 19:53:42,389 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 21:11:05,389 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 21:11:05,529 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:f76f6444-f55f-4e79-b14d-5cebe1555c6f,port:8916
+2020-03-17 21:11:16,474 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 21:11:41,070 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 21:11:41,111 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:a1eac611-ec44-47ca-a445-50cd54f78aae,port:8510
+2020-03-17 21:11:52,746 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 21:14:17,365 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 21:14:17,404 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:f0a8a69f-7e8e-4f20-870d-afc26ea88219,port:8183
+2020-03-17 21:14:42,566 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-17 21:15:12,040 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-17 21:15:12,081 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:dd6a28ff-328b-4d69-a427-ef301c039bbb,port:8056
+2020-03-17 21:15:18,634 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:47:04,270 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:47:04,316 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:ceaeb565-9abe-4dd8-8698-e7e8b392dc82,port:8485
+2020-03-18 14:47:23,675 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:47:37,981 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:47:38,015 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://lichess.org/b9PvUrw8,memfile:4535d713-0067-42ac-9a58-0f2e0f31f094,port:8556
+2020-03-18 14:48:54,718 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:49:22,865 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:49:22,905 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://lichess.org/b9PvUrw8,memfile:4aaa3098-e01c-4cb2-81da-c5637d312f36,port:8910
+2020-03-18 14:49:42,273 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:57:07,853 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:57:07,893 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://lichess.org/b9PvUrw8,memfile:38e6d297-9960-4b06-90d1-b54c44165603,port:8323
+2020-03-18 14:57:22,624 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:57:48,484 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:57:48,522 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://lichess.org/b9PvUrw8,memfile:0c2f41df-8792-40b7-b9f5-8422e14381e1,port:8210
+2020-03-18 14:58:27,421 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:59:27,100 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:59:27,139 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:5000,url:https://lichess.org/b9PvUrw8,memfile:ddf91003-4b9b-4d4e-954f-526d4758a5bc,port:8407
+2020-03-18 14:59:36,208 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 14:59:47,762 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 14:59:47,802 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:5000,height:2000,url:https://lichess.org/b9PvUrw8,memfile:9b8a262b-0734-491d-a29c-a73aefc65668,port:8265
+2020-03-18 15:00:09,345 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:00:25,785 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:00:25,825 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:5000,height:5000,url:https://lichess.org/b9PvUrw8,memfile:7824b64c-58d5-477b-b7aa-2aadfba80cad,port:8427
+2020-03-18 15:01:14,118 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:01:15,412 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-03-18 15:01:28,819 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:01:28,871 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:3000,height:5000,url:https://lichess.org/b9PvUrw8,memfile:27c541dd-35ff-4601-b040-59e6fb3bf016,port:8135
+2020-03-18 15:02:09,828 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:02:20,562 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:02:20,602 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:8bda67bc-b101-4da3-9671-322b7c8742c2,port:8645
+2020-03-18 15:04:48,572 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:04:57,513 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:04:57,552 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:b1d937c9-f971-40fa-9cf1-9957c2c2d3ac,port:8670
+2020-03-18 15:05:27,651 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:06:00,420 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:06:00,461 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:103a7c50-54af-4766-b5ea-3bc9cf62e4bf,port:8552
+2020-03-18 15:07:15,738 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:09:07,660 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:09:07,699 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:4ac55677-213f-49d1-92e7-43c4d8160609,port:8333
+2020-03-18 15:09:56,758 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-03-18 15:12:41,170 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-03-18 15:12:41,210 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:62521d3b-af50-4b10-b43b-8e5da267fdac,port:8496
+2020-03-18 15:13:16,604 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-11-09 16:21:10,809 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-11-09 16:21:10,879 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:e694b652-4eab-4118-981f-dea5d81e0152,port:8285
+2020-11-09 16:21:36,760 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-11-09 16:23:12,153 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-11-09 16:23:12,192 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/b9PvUrw8,memfile:d8c54722-47d2-4a88-b40d-7a669f360f0c,port:8298
+2020-11-09 16:23:14,237 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-11-09 16:23:22,634 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 11:55:35,066 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 11:55:35,119 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:4f3cf5d8-e561-4def-a923-432b44b4d55e,port:8101
+2021-02-16 11:55:38,538 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 11:56:34,218 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 11:56:34,252 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:a63d2d2a-3438-4fd2-9739-5fe688c71c88,port:8192
+2021-02-16 11:56:36,905 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 11:56:44,594 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 11:56:53,508 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:09:45,393 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:09:45,547 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:17c4624a-7ed2-4f16-bc94-e3b00ba7ea65,port:8333
+2021-02-16 12:09:48,754 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:09:56,594 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:10:05,828 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:10:15,070 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:10:24,299 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:10:26,820 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:15:51,943 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:15:51,985 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:87fb577c-8c5c-4bd1-9e17-86146c370883,port:8904
+2021-02-16 12:15:54,265 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:16:02,650 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:16:11,965 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:16:16,030 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:25:48,066 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:25:48,115 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:b1d7143f-aef5-4c08-be99-5b2bc11fa538,port:8694
+2021-02-16 12:26:34,688 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:27:52,167 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:27:52,211 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:58074bf1-1f8d-4d7a-a25d-c4511a801b1b,port:8736
+2021-02-16 12:27:54,475 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:28:02,992 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:28:12,340 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:28:14,847 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:29:13,049 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:29:13,093 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:b1f60a4e-3c70-4157-9d2e-79a6c8107278,port:8047
+2021-02-16 12:29:15,477 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:29:24,757 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:29:28,971 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:29:46,791 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:29:46,827 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:ab3f4fc9-eb9e-4132-ba31-8a0c0b8a8ea0,port:8097
+2021-02-16 12:29:49,172 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:29:57,672 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:30:05,930 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:30:38,102 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:30:38,135 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:fb986a70-c655-4fde-b782-6951184c19f4,port:8948
+2021-02-16 12:30:40,489 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:30:48,926 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:30:58,554 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:31:08,174 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:31:11,525 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:31:27,810 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:31:27,845 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:e64c13dd-4163-4ecd-b565-d10532dc0947,port:8249
+2021-02-16 12:31:30,131 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:31:39,050 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:31:48,579 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:31:58,124 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:32:31,546 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:32:31,583 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:f4b584dc-4827-4b7b-af66-3990bf6f3a0c,port:8504
+2021-02-16 12:32:33,986 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:32:43,508 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:32:45,313 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:32:57,773 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:32:57,808 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:30a84bd4-32a2-4b7e-97ea-64e162029c77,port:8973
+2021-02-16 12:33:00,322 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:33:08,867 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:33:18,223 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:33:22,125 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:36:05,339 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:36:05,382 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:a6ba6d53-d877-4963-a37e-c9e8f6e8b51b,port:8915
+2021-02-16 12:36:07,555 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:36:16,254 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:36:25,811 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:36:35,113 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:36:44,417 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:36:53,715 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:37:03,008 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:37:05,901 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:37:46,127 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:37:46,162 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:f056c0b7-b6bb-400f-80e1-2f788ea5483e,port:8178
+2021-02-16 12:37:48,367 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:37:56,802 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:38:06,030 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:38:40,333 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:38:40,374 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:4c86ef35-84d6-4670-bbb0-d2bfeeef3232,port:8556
+2021-02-16 12:38:42,605 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:38:51,025 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:00,229 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:09,379 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:18,571 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:22,895 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:39:35,603 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:35,643 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:72764a9d-a566-4d32-9f3d-d1b4eb2959bd,port:8196
+2021-02-16 12:39:38,131 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-02-16 12:39:47,162 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:39:57,077 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:06,633 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:15,962 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:25,493 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:35,052 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:44,642 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:40:54,162 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:41:03,736 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:41:13,248 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:44:01,746 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-02-16 12:44:01,779 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1080,height:1920,url:https://lichess.org/gI4Vho8a,memfile:382eb4b8-702d-4bf4-a8f8-861b459c1f09,port:8577
+2021-02-16 12:44:14,110 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:14:36,104 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:14:36,195 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:19654a6b-b165-47f9-bb54-221852e024cb,port:8168
+2021-03-15 12:14:50,983 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:16:29,012 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:16:29,057 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:3cb15e51-ee61-4cfc-95a0-7e013ce6d89a,port:8163
+2021-03-15 12:16:39,152 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2021-03-15 12:16:39,152 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:18:06,767 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:18:06,816 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:d74be697-ab31-4d64-bd38-57e587d3d136,port:8088
+2021-03-15 12:18:12,314 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:27:16,941 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:27:16,976 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:2e861f7e-c00a-49b6-843a-f7e10516b2f9,port:8308
+2021-03-15 12:27:43,103 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:28:40,654 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:28:40,725 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:3ba82d5c-a4bb-4344-b9b2-dba3ad0b2581,port:8025
+2021-03-15 12:28:47,129 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:29:02,313 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:29:02,368 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:7eb98d73-f9ef-4212-8b0c-84d36d5969b6,port:8382
+2021-03-15 12:31:13,477 [12] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 12:41:12,681 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 12:41:12,725 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:d3e54c1e-c0e9-4a41-bb4f-dcbd05b5b1c2,port:8296
+2021-03-15 12:42:07,148 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:05:15,925 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:05:15,964 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/QyUABfGd,memfile:ce033c77-0924-44d7-a9e2-83ea72c585c8,port:8571
+2021-03-15 13:05:29,152 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:06:07,711 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:06:07,764 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/QyUABfGd,memfile:e660e5c6-8fa5-4229-a15f-237687ba5b53,port:8594
+2021-03-15 13:07:17,606 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:20:09,094 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:20:09,161 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:0316b7d5-de5e-4f23-9e8d-3ebb8befdabf,port:8996
+2021-03-15 13:20:44,569 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:23:50,226 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:23:50,271 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:a7a0f5ea-c106-40e4-9da1-c47321ab385c,port:8893
+2021-03-15 13:24:42,259 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:39:19,077 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:39:19,126 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:bca21aa2-9bf4-49e7-8e75-db9b4e41588b,port:8243
+2021-03-15 13:41:51,059 [14] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-15 13:42:02,943 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-15 13:42:02,978 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/QyUABfGd,memfile:c83714a3-3d6e-493e-8f99-ac434014d85c,port:8185
+2021-03-15 13:43:03,746 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:37:21,923 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:37:21,993 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:eb0d1b3d-d746-46d4-8c1a-2b19347a92ec,port:8583
+2021-03-17 16:38:03,909 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:38:30,265 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:38:30,319 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:027eb8cf-3822-4466-9f71-ff0c388aab58,port:8358
+2021-03-17 16:38:41,504 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:39:01,117 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:39:01,157 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:1db18b2c-1438-4486-bd3e-5042870dcd58,port:8881
+2021-03-17 16:39:24,565 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:39:30,567 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:39:30,599 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:b54cf2a0-d8f9-4901-8401-e78a41c34aa3,port:8873
+2021-03-17 16:39:52,167 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:40:07,522 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:40:07,573 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:b1868664-be1d-41d2-9843-c01281768487,port:8415
+2021-03-17 16:40:38,438 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:41:25,124 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:41:25,174 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:d42b13ee-65f2-49d8-94de-cf9187c880c0,port:8290
+2021-03-17 16:42:04,457 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:45:06,066 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:45:06,109 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:36cb8657-8a8c-442f-93a3-288a79ddaa22,port:8371
+2021-03-17 16:45:18,180 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:46:05,399 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:46:05,447 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:255b9fa8-182f-4c3f-a8cb-18baec936dbb,port:8538
+2021-03-17 16:46:11,150 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:46:28,489 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:46:28,538 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:5732b06b-32a2-4031-8a64-3b248c728ae0,port:8264
+2021-03-17 16:46:52,797 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:48:24,466 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:48:24,500 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:faf5dd34-b5f0-449e-9310-088c31688ef9,port:8047
+2021-03-17 16:48:38,655 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 16:49:40,044 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 16:49:40,087 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:a3b9c29b-6671-4dae-aab5-eb65815f2cbf,port:8461
+2021-03-17 16:49:53,699 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-17 17:06:13,130 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-17 17:06:13,163 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://forge.medium.com/the-weekend-experiment-that-will-change-your-life-a357562193a2,memfile:eb3ce348-3118-4949-9911-602a4f8569f6,port:8547
+2021-03-17 17:06:41,043 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:10:21,099 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:10:21,157 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:3e181731-61c7-4c80-b809-5c1e595efbe3,port:8912
+2021-03-27 13:10:39,715 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:11:22,204 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:11:22,245 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:ca593c57-ced6-484a-8e64-6494113479e5,port:8710
+2021-03-27 13:12:30,127 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:13:14,713 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:13:14,756 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:222618e7-782a-4eec-9434-ea0638b603f7,port:8721
+2021-03-27 13:13:23,217 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:13:32,563 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:13:32,605 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:d766d920-cd8a-4ccf-bcf8-1469c8a5b769,port:8074
+2021-03-27 13:14:30,707 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:14:52,967 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:14:53,007 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1280,height:720,url:https://lichess.org/8uGvHBly,memfile:4c1d6869-ce05-4205-8f12-140390516cb7,port:8204
+2021-03-27 13:16:15,197 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:16:28,661 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:16:28,704 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:https://lichess.org/8uGvHBly,memfile:d48fa536-2f2b-4d1e-80b1-da1b081793cc,port:8874
+2021-03-27 13:16:39,981 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:16:51,889 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:16:51,940 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:https://lichess.org/8uGvHBly,memfile:ce0c7ff4-2eb2-47dc-9334-bf6c71de6fc5,port:8903
+2021-03-27 13:17:42,208 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:18:13,775 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:18:13,818 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://lichess.org/8uGvHBly,memfile:da27f9fb-e8f8-4320-88cf-8486508f32a9,port:8476
+2021-03-27 13:18:30,548 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:18:40,551 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:18:40,594 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:2808,url:https://lichess.org/8uGvHBly,memfile:bb0ba3d1-f590-48be-abda-4fa64d7666a0,port:8071
+2021-03-27 13:19:04,781 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:19:25,092 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:19:25,135 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:c920d5b9-36f4-4b8c-aee3-81ca81f8a212,port:8997
+2021-03-27 13:22:25,166 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:22:31,210 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:22:31,251 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:e1c2ffbe-0dfc-43b4-a284-76033c12f42e,port:8050
+2021-03-27 13:22:52,372 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:22:57,586 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:22:57,628 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:f10cf619-a4d8-4d1d-9fe7-31d9fb1ff673,port:8376
+2021-03-27 13:24:25,838 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:24:38,311 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:24:38,352 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:9774cc89-b6d9-4674-b36a-c5e329dac572,port:8368
+2021-03-27 13:25:12,627 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:25:49,202 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:25:49,246 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:6d4a5c58-bab8-44a9-ae90-0bcd85b8d142,port:8262
+2021-03-27 13:29:03,919 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:29:09,384 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:29:09,427 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:f109b6c9-ca51-4b85-8988-892c80f56091,port:8182
+2021-03-27 13:29:26,282 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:29:33,925 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:29:33,962 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:bff15b39-fc68-4789-84c3-53ac608c631f,port:8710
+2021-03-27 13:30:24,503 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:30:30,588 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:30:30,631 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:f51a67ca-fd7c-410d-97bc-ab908033dc61,port:8685
+2021-03-27 13:31:10,254 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:31:18,330 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:31:18,370 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:dc303c30-3658-4b52-a96c-f1847c2efdba,port:8135
+2021-03-27 13:31:40,854 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:31:50,614 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:31:50,655 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:65c926ce-ea5c-4528-b431-5d94c55a1852,port:8264
+2021-03-27 13:32:12,548 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:34:13,326 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:34:13,369 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/8uGvHBly,memfile:e40f70fd-463d-4f97-8ae3-25a1d0129d43,port:8924
+2021-03-27 13:36:46,221 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:37:11,544 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:37:11,588 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/HrHK6QTn,memfile:c9b72a3a-3af1-49da-925e-c4b2612f596c,port:8682
+2021-03-27 13:37:45,510 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-27 13:40:26,122 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-27 13:40:26,164 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:2500,height:5000,url:https://lichess.org/IspY1IJK,memfile:48c43275-d3ab-44c4-b576-f6d644bd55c9,port:8155
+2021-03-27 13:56:47,726 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 14:33:56,186 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:33:56,292 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:d504726d-d550-40c9-baa4-cad9345ad394,port:8581
+2021-03-30 14:33:59,309 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 14:33:59,457 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:34:08,624 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:34:17,854 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:34:27,039 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:34:36,259 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:34:52,194 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:35:01,555 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:35:10,874 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:35:17,715 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 14:36:23,203 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 14:36:23,246 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://github.com/gree/unity-webview,memfile:156062f9-90c1-4c03-8495-255d0397d059,port:8960
+2021-03-30 14:36:32,469 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:53:18,310 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:53:18,349 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:9ef5176c-5838-4181-9355-bac3831cd648,port:8534
+2021-03-30 15:53:31,992 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:54:11,251 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:54:11,290 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:b68546d2-159e-43ce-9392-d0ad45c17be6,port:8358
+2021-03-30 15:54:18,733 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:54:56,609 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:54:56,648 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:6bc6d454-c4b4-4908-963f-74daab196343,port:8570
+2021-03-30 15:56:11,112 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:56:32,992 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:56:33,032 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:7bd323d0-efbd-4a37-914d-a98df9a9ce5b,port:8951
+2021-03-30 15:57:26,731 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:57:59,154 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:57:59,200 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:d55e8481-b2ee-464b-9582-770b8fb850a8,port:8744
+2021-03-30 15:58:26,750 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 15:58:59,599 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 15:58:59,640 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:8dcae4db-84d7-4f62-9534-6b7b9f20788c,port:8563
+2021-03-30 15:59:31,383 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:01:39,813 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:01:39,851 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:fdb3692b-5ab4-4eaf-b0fc-e8bdb1c0698c,port:8024
+2021-03-30 16:04:10,342 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:04:58,250 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:04:58,290 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:7cce9929-8c71-42af-9d35-74d729eae21e,port:8536
+2021-03-30 16:11:44,110 [14] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:19:15,612 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:19:15,650 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:de65f827-9a0f-491f-b0e1-c5ebc99db24c,port:8745
+2021-03-30 16:20:21,601 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:22:59,800 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:22:59,840 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:6a6b0499-a219-49e3-b4c9-a8895624f817,port:8067
+2021-03-30 16:25:20,093 [12] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:29:16,456 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:29:16,496 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:f2af3d88-f248-4374-b34e-fba30cf343eb,port:8860
+2021-03-30 16:31:04,222 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:33:00,902 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:33:00,944 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:5f6c3187-7d32-491d-92a6-7142bc1353b4,port:8789
+2021-03-30 16:33:13,832 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:34:12,287 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:34:12,323 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:34ee4c8a-85ac-49cd-bb7a-7acc328a10ed,port:8255
+2021-03-30 16:35:29,273 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:38:10,129 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:38:10,169 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:09c0108a-e548-4830-8c2c-18c31e122d87,port:8459
+2021-03-30 16:39:17,217 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:45:29,266 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:45:29,309 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:24249eab-c474-4be0-9dba-ca93e2d746aa,port:8475
+2021-03-30 16:49:43,889 [14] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-03-30 16:51:18,801 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-03-30 16:51:18,841 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://python.plainenglish.io/turning-your-python-script-into-a-real-program-cb702e16ed02,memfile:65b14ae3-99ac-4dea-8f3e-e5d18b1fd8e8,port:8840
+2021-03-30 16:52:32,194 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
